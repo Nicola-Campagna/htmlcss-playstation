@@ -1,13 +1,15 @@
 /* JUMBOTON*/
 
 
-.bg-jumbotron {
+.upper-jumbotron {
     margin-top: 120px;
     background-color: gray;
     /* background-image: url("../img/img\ \(5\)/youtube.png"); */
-    height: 70vh;
-
+    /* debug */
+    height: 400px
 }
+
+
 
 /* CLASSI DEDBUG */
 .debug {
