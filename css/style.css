@@ -6,7 +6,9 @@
 /* btn acquisto */
 /* btn plus */
 
-
+section {
+    margin: 3rem 0;
+}
 
 /* JUMBOTON*/
 
@@ -20,6 +22,7 @@
     /* background-color: gray; */
     height: 70vh
 }
+
 
 
 /* CLASSI DEDBUG */
