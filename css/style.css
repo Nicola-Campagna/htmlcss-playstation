@@ -12,8 +12,10 @@ section {
 
 /* JUMBOTON*/
 
+/* jumbotron nell'header */
 .upper-jumbotron {
     margin-top: 140px;
+    /* img returnal trhiller */
     background-image: url("../returnal-listing-thumb-01-ps5.jpg");
     background-position: top center;
     background-repeat: no-repeat;
@@ -23,7 +25,14 @@ section {
     height: 70vh
 }
 
-
+/* SECTION "GAME" */
+.game-container {
+    /* img game in section game */
+    background-image: url("../it-takes-two-hero-banner-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
 
 /* CLASSI DEDBUG */
 
