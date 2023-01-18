@@ -1,5 +1,5 @@
 section {
-    margin: 3rem 0;
+    /* margin: 3rem 0; */
 }
 
 li {
@@ -34,6 +34,7 @@ li {
     background-size: cover;
     height: 80vh;
 }
+
 
 /* CLASSI DEDBUG */
 
