@@ -1,13 +1,14 @@
-/* BTN */
-
-/* btn x info */
-
-
-/* btn acquisto */
-/* btn plus */
-
 section {
     margin: 3rem 0;
+}
+
+li {
+    list-style: none;
+}
+
+.orange {
+    background-color: orangered;
+    color: white;
 }
 
 /* JUMBOTON*/
@@ -37,27 +38,17 @@ section {
 /* CLASSI DEDBUG */
 
 .debug {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     /* background-color: lightgray; */
 }
 
 [class*="col"] {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* min-height: 50px; */
 
 }
 
-.game-container {
+/* .game-container {
     height: 300px;
     background-color: aqua;
-}
-
-
-/* img,
-svg {
-    color: black;
-    background-color: black;
-    object-fit: cover;
-    width: 100%;
-    height: 50px;
 } */
